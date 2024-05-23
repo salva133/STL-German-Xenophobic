@@ -4,4 +4,4 @@ tags={
 	"Sound"
 }
 name="German Xenophobe"
-supported_version="3.11.1"
+supported_version="3.12.2"
